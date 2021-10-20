@@ -1,7 +1,7 @@
 
 # Maya Okulları Antalya Yerleşkesi Merkezi Yoklama Portalı
 
-Bu yazılım EA Scientific tarafından Maya Okulları Antlya Yerleşkesi'ne yapılmıştır.
+Bu yazılım EA Scientific tarafından Maya Okulları Antalya Yerleşkesi'ne yapılmıştır.
 
 
 
@@ -18,7 +18,7 @@ mayaokullari.easci.tech
   
 ## Kullanım Yönergeleri
 
-[Temel Kullanım Kitapçığı](https://mayaokullari.easci.tech/public/docs)
+[Temel Kullanım Kitapçığı](https://mayaokullari.easci.tech/public/yonerge.pdf)
 
   
 ## Tech Stack
